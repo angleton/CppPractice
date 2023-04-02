@@ -7,5 +7,9 @@ Test-driven development can be describes using the following steps:
 	
 	1.  Write a single unit test for a signle piece of the program.
 	2.	Run the unit test, expecting it to fail. 
-	3.  Refactor existing code as needed. 
+	3.  Write the simplest possible code to pass the unit test.
+	4.  Refactor existing code as needed. 
 	5.  Repeat steps 2 to 4 until the program is complete. 
+
+If this is running in VS as opposed to VS Code as demonstrated in the video, run the resulting executable. 
+The tests won't currently show up in VS's Test Explorer. 
