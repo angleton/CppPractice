@@ -1,0 +1,11 @@
+YouTube video:  
+Test-Driven Development (TDD) in C++
+https://www.youtube.com/watch?v=_G-QC9ai_u4
+From the video:
+
+Test-driven development can be describes using the following steps:
+	
+	1.  Write a single unit test for a signle piece of the program.
+	2.	Run the unit test, expecting it to fail. 
+	3.  Refactor existing code as needed. 
+	5.  Repeat steps 2 to 4 until the program is complete. 
